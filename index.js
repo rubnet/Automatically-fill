@@ -7,3 +7,4 @@ for(var i = 1; i<selectAll.length+1 ; i++ ){
    if(tmp.querySelectorAll(".jqCheckbox")[0])
        tmp.querySelectorAll(".jqCheckbox")[0].click();
 }
+console.log("test");
